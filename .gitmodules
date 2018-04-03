@@ -1,0 +1,6 @@
+[submodule "mamadyonline.github.io"]
+	path = mamadyonline.github.io
+	url = https://github.com/mamadyonline/mamadyonline.github.io.git
+[submodule "output"]
+	path = output
+	url = https://github.com/mamadyonline/mamadyonline.github.io.git
