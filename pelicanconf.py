@@ -3,8 +3,12 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Mamady Nabé'
-SITENAME = 'Le Blog de Mamady'
+SITENAME = 'Mamady Nabé'
 SITEURL = 'http://mamadyonline.github.io'
+COPYRIGHT_START_YEAR = '2018'
+DESCRIPTION = "Mamady Nabé. Le blog de mamady nabé. Sur ce site je partage \
+               mes opinions sur quelques sujets liés aux études, \
+               à l'Afrique, à la Data Science, au football et mes humeurs aussi."
 
 LOGO_IMAGE = '/theme/static/images/logo.png'
 

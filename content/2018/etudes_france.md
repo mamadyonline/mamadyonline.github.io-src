@@ -1,6 +1,6 @@
 Title: La formation universitaire en France, par un étranger
 Date: 2018-04-03
-Tags: France, études, université
+Tags: France, études, université, campus france
 
 Dans cette publication, je vais essayer de parler des études en France, notamment pourquoi est-ce un bon choix pour les études universitaires et comment y aller pour poursuivre ses études. Alors on commence, ça risque d'être long...
 

@@ -14,6 +14,6 @@ Title: Quora
 
 -Quora, Décembre 2017
 
-[Pourquoi Python n'est-il pas utilisé pour le développement de logiciels professionnels ?](https://fr.quora.com/Pourquoi-Python-n%E2%80%99est-il-pas-utilis%C3%A9-pour-le-d%C3%A9veloppement-de-logiciels-professionels/answer/Mamady-Nab%C3%A9)
+<!--- [Pourquoi Python n'est-il pas utilisé pour le développement de logiciels professionnels ?](https://fr.quora.com/Pourquoi-Python-n%E2%80%99est-il-pas-utilis%C3%A9-pour-le-d%C3%A9veloppement-de-logiciels-professionels/answer/Mamady-Nab%C3%A9)
 
-- Quora, Novembre 2017
+- Quora, Novembre 2017 -->

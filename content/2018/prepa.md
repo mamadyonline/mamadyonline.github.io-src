@@ -1,6 +1,6 @@
 Title: Les classes préparatoires, c'est quoi ça encore !
 Date: 2018-04-04
-Tags: écoles d'ingénieurs, classes préparatoires, concours
+Tags: écoles d'ingénieurs, classes préparatoires, concours, cpge
 
 C'est vrai que les années passées en classes préparatoires ne sont pas souvent les années les plus glamour de notre vie, néanmoins elles restent quand même parfois décisives dans le futur de celles et ceux qui l'empruntent. Dans ce poste, je fais un petit tour d'horizon...
 
