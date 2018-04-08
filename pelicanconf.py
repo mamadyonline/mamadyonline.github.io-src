@@ -71,7 +71,7 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 #### Analytics
-GOOGLE_ANALYTICS = True
+GOOGLE_ANALYTICS = "UA-116900970-1"
 DOMAIN = "mamadyonline.github.io"
 
 # Other

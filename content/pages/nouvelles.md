@@ -4,7 +4,7 @@ Slug: nouvelles
 Modifiées dernièrement : 06 Avril, 2018
 
 ## Études
-Cela fait maintenant deux mois que je suis en stage chez **Atos** en tant que qu'ingénieur R&D en data science.
+Cela fait maintenant deux mois que je suis en stage chez **Atos** en tant qu'ingénieur R&D en data science.
 
 ## Lectures
 Je suis actuellement entrain de lire le très célèbre livre [Think and Grow Rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich) de **Napoleon Hill** avec la publication mise à jour qui intègre des leçons de quelques riches contemporains.
