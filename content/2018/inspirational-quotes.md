@@ -2,7 +2,7 @@ Title: Five Inspirational Quotes That Have Stuck With me
 Date: 2018-04-06
 Tags: inspirational quotes, books
 
-In this blog post, I am going to share five inspirational quotes that I has stuck with me since I read them. For each one of them, I would try to provide some insight about why I found them interesting.
+In this blog post, I am going to share five inspirational quotes that have stuck with me since I read them. For each one of them, I would try to provide some insight about why I found them interesting.
 
 ## On the value of learning
 
@@ -23,7 +23,7 @@ I read this quote from the amazing book of Robert Greene **Mastery** where he sh
 Stephen Covey is the mastermind behind the great book **The 7 habits of highly effective people** where he sheds some lights on how to be productive.
 
 * Don't fail to understand the problem with the right perspective.
-* Don't get into discussion before understanding what it is the subject. Question others' perspective
+* Don't get into discussion before understanding what is the subject. Question others' perspective
 * It will save you a relationship, a respect, various troubles.
 * Never fail to see a problem through the right lens.
 
