@@ -1,12 +1,12 @@
 {% extends 'base.html' %}
-{% block title %}Posts tagged with: {{ tag }}{% endblock %}
-{% block metadesc %}All posts on {{ SITENAME }} tagged with {{ tag }}{% endblock %}
+{% block title %}Les publications avec le tag: {{ tag }}{% endblock %}
+{% block metadesc %}Toutes les publications sur {{ SITENAME }} avec le tag {{ tag }}{% endblock %}
 
 {% block header %}{% endblock %}
 
 {% block content %}
 
-  <h1 class="article-title">Posts tagged with: {{ tag }}</h1>
+  <h1 class="article-title">Les publications avec le tag: {{ tag }}</h1>
   {% for article in articles %}
     {% if article.status != 'draft' %}
       <h2 class="article-title pull-left"><a href="/{{ article.url }}" title="{{ article.title }}">{{ article.title }}</a></h2>
@@ -15,7 +15,7 @@
     {% endif %}
   {% endfor %}
   <div class="back-to-home">
-    <a href="/">← Back to Home</a>
+    <a href="/">← Aller à l'accueil</a>
   </div>
   <hr class="small"></hr>
 {% endblock %}

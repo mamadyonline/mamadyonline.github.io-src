@@ -6,9 +6,10 @@ AUTHOR = 'Mamady Nabé'
 SITENAME = 'Mamady Nabé'
 SITEURL = 'http://mamadyonline.github.io'
 COPYRIGHT_START_YEAR = '2018'
-DESCRIPTION = "Mamady Nabé. Le blog de mamady nabé. Sur ce site je partage \
-               mes opinions sur quelques sujets liés aux études, \
-               à l'Afrique, à la Data Science, au football et mes humeurs aussi."
+TITLE = 'Mamady Nabé: futur data scientist'
+DESCRIPTION = "Mamady Nabé est actuellement un étudiant en fin d'études \
+               en Data science qui compte exercer ce métier pour aider \
+               les entreprises à tirer profit de leurs données."
 
 LOGO_IMAGE = '/theme/static/images/logo.png'
 
