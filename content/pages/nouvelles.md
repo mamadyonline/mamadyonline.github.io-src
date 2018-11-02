@@ -1,12 +1,34 @@
 Title: Mes Nouvelles
 Slug: nouvelles
 
-Modifiées dernièrement : 29 Avril, 2018
+Modifiées dernièrement : 29 Octobre, 2018
 
-## Études
-Cela fait maintenant deux mois que je suis en stage chez **Atos** en tant qu'ingénieur R&D en data science.
+## Finie l'école d'ingénieur
+Et voilà, c'est la fin de 5 longues années d'études, de la préparation des concours en passant par les classes préparatoires, à la validation de 3 années en école d'ingénieur, le chemin fut plein d'expériences.
+
+De la découverte, de la compréhension de ma propre personne, du challenge, de l'apprentissage, de rencontres, ce fut génial. Alors bien sûr, tout ne fut pas glorieux comme je l'aurai souhaité, mais j'ai aimé ces années passées, entre moments de doute et de jubilation.
+
+Alors, voilà j'ai fait ma soutenance de Projet de Fin d'Etudes (PFE), que j'ai effectué chez Bull/Atos, le 4 Septembre 2018, intitulé **IO accelerator parameters Inference based on Numerical Optimization**. Il s'agissait de contribuer à la mise en place d'une solution permettant d'accélérer des applications dédiées au High-Performance Computing (HPC), les super-calculateurs.
+
+Un exemple concret de ce genre d'applications se trouve du côté de la météo. Pour faire les prévisions météorologiques, il y a une application qui fait de grosses simulations et de gros calculs, et typiquement cela prend énormément de temps (entre 1 jour et des mois) avant de pouvoir avoir des résultats interprétables.
+
+L'équipe dans laquelle j'ai effectuée mon PFE développe des applications pour accélérer ce genre d'applications, sauf qu'il faut les configurer, avec des paramètres clés impactant la rapidité qu'il est possible d'avoir.
+Le but donc de mon stage était de développer une solution en utilisant les techniques de data science et de machine learning pour trouver les paramètres optimaux de ces applications.
+
+Je suis très content, puisque ce travail a donné naissance à une présentation sous forme de workshop dans la célèbre conférence **ISC** (International Supercomputing COnference) et à un brevet. Ce qui est très gratifiant.
+
+En plus, j'ai été recruté ensuite dans la même entreprise, et cette fois pour travailler sur un tout nouveau projet de data science/machine learning pour faire de la maintenance prédictive dans les data centers. J'ai commencé en Septembre et je dois dire que j'aime bien.
 
 ## Lectures
+
+### Lecture actuelle
+Actuellement je suis en train de finir le bon livre sur les dangers des modèles d'apprentissage automatique, écrit par ***Cathy O'Neil***, et intitulé ***Weapons of Matho Destruction***.
+
+C'est un bouquin qui fait le très bon boulot d'attirer l'attention de tous sur les dangers et les dommages que peuvent causer les décisions automatisées basées sur l'analyse des données à travers des modèles de machine learning.
+
+Un exemple triste est le système de crédit bancaire ou encore le système de notation des professeurs pour évaluer leur performance. Vous serez surpris comment ces modèles en réalité sont nocifs et peuvent desservir les causes, pourtant qu'ils sont censés servir.
+
+### Lectures précendentes
 Je suis actuellement entrain de lire le très célèbre livre [Think and Grow Rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich) de **Napoleon Hill** avec la publication mise à jour qui intègre des leçons de quelques riches contemporains.
 
 Je n'en suis qu'au début mais je suis déjà très accroché. Le livre parle des principes qui ont guidé la richesse de plein de milliardaires. Un de ces principes qu'il élabore dans les premiers chapitres est **le désir**; il est important que l'on ait conscience de ce que nous voulons. Plus on est précis, mieux c'est.
