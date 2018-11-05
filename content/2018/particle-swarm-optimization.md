@@ -212,3 +212,7 @@ print(f'f = {res_s[1]}') # f = 8.14748063004205e-06
 This is the end of this long post. I hope it helps, I tried my best to keep it simple.
 
 For a more advanced PSO, I highly recommend this open source python library [Pyswarms](https://github.com/mamadyonline/pyswarms). You can also find all the code on my github at [My simple implementation](https://github.com/mamadyonline/Optimization-algorithm-tutorials).
+
+Reference:
+[](http://www.swarmintelligence.org/tutorials.php)
+[Inertia weight strategies in PSO](http://www.softcomputing.net/nabic11_7.pdf))
