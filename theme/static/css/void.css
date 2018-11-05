@@ -350,9 +350,13 @@ div.prompt { display: none; }
 }
 .rendered_html pre {
   margin: 1em 2em;
+	word-wrap: break-word; /* force long words to break */
 }
 .rendered_html code {
   border: 0;
+	white-space: pre-wrap; /* force long lines to break */
+	/* word-wrap: break-word; force long words to break */
+	overflow: scroll;
   background-color: #fff;
   color: #000;
   font-size: 100%;
