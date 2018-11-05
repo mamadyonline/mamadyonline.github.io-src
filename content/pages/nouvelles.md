@@ -22,7 +22,7 @@ En plus, j'ai été recruté ensuite dans la même entreprise, et cette fois pou
 ## Lectures
 
 ### Lecture actuelle
-Actuellement je suis en train de finir le bon livre sur les dangers des modèles d'apprentissage automatique, écrit par ***Cathy O'Neil***, et intitulé ***Weapons of Matho Destruction***.
+Actuellement je suis en train de finir le bon livre sur les dangers des modèles d'apprentissage automatique, écrit par ***Cathy O'Neil***, et intitulé ***Weapons of Math Destruction***.
 
 C'est un bouquin qui fait le très bon boulot d'attirer l'attention de tous sur les dangers et les dommages que peuvent causer les décisions automatisées basées sur l'analyse des données à travers des modèles de machine learning.
 
