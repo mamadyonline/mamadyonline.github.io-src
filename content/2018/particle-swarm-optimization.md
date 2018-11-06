@@ -47,13 +47,15 @@ Now that we understand how it works. Let's see the algorithm.
 
 ## The Algorithm
 
-We start by initializing randomly a population of particles in the search space. And through various iterations, each particle moves toward the best solution by following either the global best solution at each iteration or its locally best known solution among its neighbors, depending whether we consider local or global PSO.
+![PSO in action](/images/pso.gif)
+
+We start by initializing randomly a population of particles in the search space. And through various iterations, each particle moves toward the best solution by following either the global best solution at each iteration or its locally best-known solution among its neighbors, depending on whether we consider local or global PSO.
 
 Here is the pseudo-code for global PSO:
 
 ```
 For each particle
-    Randomly intialize its position and velocity
+    Randomly initialize its position and velocity
 END
 Do
   For each particle
@@ -167,17 +169,17 @@ class PSO(object):
     """
     for _ in range(maxiter):
       for i in range(self.n_particles):
-          x = self.particles_pos[i]
-          v = self.velocities[i]
-          p_best = self.p_best[i]
-          self.velocities[i] = self.update_velocity(x, v, p_best, self.g_best)
-          self.particles_pos[i] = self.update_position(x, v)
-          # Update the best position for particle i
-          if self.func(self.particles_pos[i]) < self.func(p_best):
-              self.p_best[i] = self.particles_pos[i]
-          # Update the best position overall
-          if self.func(self.particles_pos[i]) < self.func(self.g_best):
-              self.g_best = self.particles_pos[i]
+        x = self.particles_pos[i]
+        v = self.velocities[i]
+        p_best = self.p_best[i]
+        self.velocities[i] = self.update_velocity(x, v, p_best, self.g_best)
+        self.particles_pos[i] = self.update_position(x, v)
+        # Update the best position for particle i
+        if self.func(self.particles_pos[i]) < self.func(p_best):
+            self.p_best[i] = self.particles_pos[i]
+        # Update the best position overall
+        if self.func(self.particles_pos[i]) < self.func(self.g_best):
+            self.g_best = self.particles_pos[i]
     return self.g_best, self.func(self.g_best)
 
 ```
@@ -205,7 +207,7 @@ print(f'f = {res_s[1]}') # f = 8.14748063004205e-06
 
 1. The initial point matters a lot in the performance of the optimization algorithm. As a rule of thumbs, as far as it is from the optmum, as long it takes the algorithm to converge (this is true for all optimization algorithms).
 2. PSO is a stochastic algorithm, the updates are performed using random processes. This can make it hard to track the solutions for multiple optimizatiion processes run. We can always use a seed for the random numbers though.
-3. It does not absolutely find the global optimal solution, but it does a good job finding one which is very close. For the sphere function, the global optimum is at (0, 0, 0), my implementation found another point which is not too bad.
+3. It does not absolutely find the global optimal solution, but it does a good job finding one which is very close. For the sphere function, the global optimum is at (0, 0), my implementation found another point which is not too bad.
 4. Depending on the number of particles, the convergence might take longer. Generally, it is better not to go beyong 50.
 5. For difficult functions, we might need more iterations before being able to find a good solution, between 500 and 1000 iterations.
 
