@@ -47,7 +47,7 @@ Now that we understand how it works. Let's see the algorithm.
 
 ## The Algorithm
 
-![PSO in action](/images/pso.gif)
+<!-- ![PSO in action](/images/pso.gif) -->
 
 We start by initializing randomly a population of particles in the search space. And through various iterations, each particle moves toward the best solution by following either the global best solution at each iteration or its locally best-known solution among its neighbors, depending on whether we consider local or global PSO.
 
