@@ -189,7 +189,7 @@ We can test it on the sphere function, for example.
 ```python
 def sphere(x):
     """
-      f(x,y) = x² + y²
+      In 3D: f(x,y,z) = x² + y² + z²
     """
     return np.sum(np.square(x))
 
@@ -207,7 +207,7 @@ print(f'f = {res_s[1]}') # f = 8.14748063004205e-06
 
 1. The initial point matters a lot in the performance of the optimization algorithm. As a rule of thumbs, as far as it is from the optmum, as long it takes the algorithm to converge (this is true for all optimization algorithms).
 2. PSO is a stochastic algorithm, the updates are performed using random processes. This can make it hard to track the solutions for multiple optimizatiion processes run. We can always use a seed for the random numbers though.
-3. It does not absolutely find the global optimal solution, but it does a good job finding one which is very close. For the sphere function, the global optimum is at (0, 0), my implementation found another point which is not too bad.
+3. It does not absolutely find the global optimal solution, but it does a good job finding one which is very close. For the sphere function, the global optimum is at (0, 0, 0), my implementation found another point which is not too bad.
 4. Depending on the number of particles, the convergence might take longer. Generally, it is better not to go beyong 50.
 5. For difficult functions, we might need more iterations before being able to find a good solution, between 500 and 1000 iterations.
 
