@@ -4,3 +4,10 @@
 [submodule "output"]
 	path = output
 	url = https://github.com/mamadyonline/mamadyonline.github.io.git
+
+[submodule "pelican-plugins"]
+        path = pelican-plugins
+        url = https://github.com/mamadyonline/mamadyonline.github.io.git
+[submodule "pelican_dynamic"]
+        path = pelican_dynamic
+        url = https://github.com/mamadyonline/mamadyonline.github.io.git
