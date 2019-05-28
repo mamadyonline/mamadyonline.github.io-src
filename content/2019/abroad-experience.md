@@ -10,7 +10,7 @@ At the core of this voyage, something guided me. The search for a better educati
 
 It is common that we fear the unknown at some point. I am no exception. At first, I dreaded all the difficulties that will go with the new adventure. But in my case, it was not a complete mystery since I found help from some people who did the same path as I did.
 
-I will share some points that I deem important.
+I will share some points that I learned on the way.
 
 ### See the unknowns as a way to grow.
 We like to get too much used to things we know as it gives us a sense of certainty in the outcomes of the things we undertake. But I think that when young, it is more important to optimize for growth, and this means that to go out there and face those unknowns. Sure the outcomes are not certain, but if done properly, you will always come out strong, with more knowledge.
