@@ -5,11 +5,9 @@ from __future__ import unicode_literals
 AUTHOR = 'Mamady Nabé'
 SITENAME = 'Mamady Nabé'
 SITEURL = 'http://mamadyonline.github.io'
-COPYRIGHT_START_YEAR = '2018'
-TITLE = 'Mamady Nabé: futur data scientist'
-DESCRIPTION = "Mamady Nabé est actuellement un étudiant en fin d'études \
-               en Data science qui compte exercer ce métier pour aider \
-               les entreprises à tirer profit de leurs données."
+COPYRIGHT_START_YEAR = '2018-2019'
+TITLE = 'Mamady Nabé: data scientist'
+DESCRIPTION = "Mamady Nabé est actuellement un ingénieur R&D et data scientist chez Bull/Atos."
 
 LOGO_IMAGE = '/theme/static/images/logo.png'
 
@@ -43,7 +41,7 @@ ABOUT_PAGE_HEADER = 'Bienvenue sur le Blog de Mamady.'
 #          ('You can modify those links in your config file', '#'),)
 # PLUGINS
 PLUGIN_PATHS = ['pelican-plugins', 'pelican_dynamic']
-PLUGINS = ['assets', 'liquid_tags.notebook', 'pelican_dynamic', 'render_math']
+PLUGINS = ['assets', 'liquid_tags.notebook', 'pelican_dynamic', 'render_math', 'pelican_gist']
 
 STATIC_PATHS = ['images', 'notebooks']
 
