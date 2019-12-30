@@ -1,7 +1,10 @@
 Title: Mes Nouvelles
 Slug: nouvelles
 
-Modifiées dernièrement : 29 Octobre, 2018
+Modifiées dernièrement : 31 Décembre, 2019
+
+## Finie mon travail chez Atos
+J'ai démissioné de mon travail en tant que data scientist chez Atos en fin septembre. Et j'ai commencé un doctorat en informatique pour travailler sur de la modélisation bayésienne de la perception de la parole naturelle.
 
 ## Finie l'école d'ingénieur
 Et voilà, c'est la fin de 5 longues années d'études, de la préparation des concours en passant par les classes préparatoires, à la validation de 3 années en école d'ingénieur, le chemin fut plein d'expériences.

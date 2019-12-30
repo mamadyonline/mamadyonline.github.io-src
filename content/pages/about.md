@@ -2,9 +2,9 @@ Title: A propos
 
 ## On se présente ...
 
-Je suis un jeune guinéen travaillant chez Bull/Atos sur des thématiques de maintenance prédictive dans les data centers, où à travers les multitudes données recoltées, le but est de mettre en place des solutions en utilisant des techniques de data science et de machine learning.
+Je suis un jeune guinéen, vivant à Grenoble apprenant à faire de la recherche scientifique au sein du laboratoire de psychologie et de neurocognition (LPNC). Je travaille sur le couplage de modèles probabiliste et biologique dans le traitement de la perception de la parole naturelle.
 
-Avant cela, j'étais étudiant à l'école d'ingénieur Grenoble-INP où j'ai effectué une double spécialisation en **Data Science** et dans les **Systèmes Embarqués**.
+Avant cela, j'ai travaillé chez Bull/Atos sur des thématiques de maintenance prédictive dans les centres de données, où à travers les multitudes de données recoltées, le but était de mettre en place des solutions en utilisant des techniques de science de données et d'apprentissage automatique.
 
 Ici, je partagerai mes pensées sur quelques sujets liés à l'Afrique, aux études, à la Data Science, au football, à mes lectures, à mes humeurs aussi.
 

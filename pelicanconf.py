@@ -6,8 +6,8 @@ AUTHOR = 'Mamady Nabé'
 SITENAME = 'Mamady Nabé'
 SITEURL = 'http://mamadyonline.github.io'
 COPYRIGHT_START_YEAR = '2018-2019'
-TITLE = 'Mamady Nabé: data scientist'
-DESCRIPTION = "Mamady Nabé est actuellement un ingénieur R&D et data scientist chez Bull/Atos."
+TITLE = 'Mamady Nabé'
+DESCRIPTION = "Mamady Nabé est actuellement un doctorant en informatique au sein du laboratoir LPNC."
 
 LOGO_IMAGE = '/theme/static/images/logo.png'
 
