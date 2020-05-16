@@ -73,5 +73,8 @@ DEFAULT_PAGINATION = False
 GOOGLE_ANALYTICS = "UA-116900970-1"
 DOMAIN = "mamadyonline.github.io"
 
+## Disqus
+DISQUS_SITENAME = "mamadyonline"
+
 # Other
 LOAD_CONTENT_CACHE = False
