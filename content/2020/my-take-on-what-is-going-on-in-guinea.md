@@ -1,0 +1,18 @@
+Title: My take on what's going on in Guinea, after the presidential elections of October 2020
+Date: 2020-10-21
+Lang: fr
+Tags: Guinea, politics, opinion
+
+S'il est vrai que les plus grands silences conduisent aux plus grands crimes, alors brisons ce silence.
+
+Vais-je apporter quelque chose de nouveau? J'en doute fort.
+
+Mon avis compte-t-il dans l'analyse politique du pays, ou globalement? Peut-être OUI, peut-être NON!
+
+Dans aucune obligation, et peut-être pour encourager un débat dans les commentaires, j'épargnerai tout le monde d'un texte long. Je vais donc évoquer juste quelques points que j'ai **ENVIE** d'aborder et discuter.
+
+I. Suis-je neutre? Je pense que c'est un débat inutile. La définition la plus simple (merci Larousse), être neutre c'est de ne prendre parti ni pour l'un ni pour l'autre. Il est très facile de s'affirmer neutre, mais l'est-on vraiment? D'après ce que j'ai remarqué (ça n'a pas de valeur d'autorité, ni des mots d'expert), il y a des gens qui se proclament neutres tout en ayant un avis sur tout, et d'autres qui n'ont d'avis sur rien. Les premiers on en voit partout, c'est pas ce qui manque. Les seconds, je préfère les considérer comme ceux-là qui ont des avis sur tout, MAIS non tranchés, ils sont peut-être plus dans la compréhension, le questionnement, et peut-être plus souvent qu'il ne paraît dans la peur. Je préfère, si je n'apporte rien de positif au débat, me retrancher, observer, au détriment d'être incompris et taxé de toute chose.
+
+II. Alpha Condé ou Cellou Dalein Diallo? Un faux débat. Alpha a été élu "démocratiquement" pour un mandat de 5 ans, renouvelable au **PLUS** une fois. Corrompre l'intégrité des institutions étatiques qui lui ont donné ce privilège, est au mieux immoral, et au pire criminel, car personne n'est sensé transformer un Etat en un bien privé. Que reproche-t-on à Cellou Dalein? D'avoir servi dans l'ancien système? D'avoir contribué plus ou moins subrepticement à des détournements? D'être leader d'une opposition inexistante? D'être Peulh? De loin, le facteur le plus critique est le dernier. Et rien que de le mentionner et y penser, me fend le cœur! Que le pays soit laissé le choix entre ces deux --parce que soyons clair, c'est de ça il est question--, est en soi dramatique. Voici deux politiques, un peu comme les deux faces d'une même pièce, qui tablent tous sur la même stratégie: le communautarisme. Je m'abstiens d'énumérer tous les problèmes qui vont avec. Alors on me dira, mais il faut bien choisir. Et je dirai oui. Je proclame, que je suis de ceux qui veulent l'alternance. Je dis **NON** à Alpha Condé. Mais dire **NON** à Alpha Condé doit-il signifier dire **OUI** à Cellou Dalein? Je m'en vais vous répondre. Je ne suis pas pour Cellou Dalein, en personne! Mais je suis pour le **respect** des institutions étatiques. Avec la situation actuelle qui prévaut en Guinée, si par contre, il fallait choisir absolument, et que **MON choix allait changer quelque chose**, je n'hésiterais pas une seconde à choisir Cellou Dalein Diallo. La raison est "simple": il **EST** l'alternance. Cette situation me rappelle une situation récente en France, quand plein de gens ont voté pour Emmanuel Macron, pour empêcher Marine Le Pen de remporter les élections, quand bien même ils ne voulaient pas de la politique de Macron. Mais hélas, nous avons d'un côté un pays aux institutions fortes et au peuple instruit/éduqué, et de l'autre, un pays où tout est bafoué. Je vous laisse y réfléchir.
+
+III. Quel est le problème? Voici une question complexe, qui mériterait plus d'attention que ces prises de position à tout va. Je ne vais pas apporter mes réflexions sur la question ici (c'est déjà un peu long non?), mais voici ce que je pense, en gros: *NOUS sommes tous coupables!*

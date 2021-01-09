@@ -41,7 +41,12 @@ ABOUT_PAGE_HEADER = 'Bienvenue sur le Blog de Mamady.'
 #          ('You can modify those links in your config file', '#'),)
 # PLUGINS
 PLUGIN_PATHS = ['pelican-plugins', 'pelican_dynamic']
-PLUGINS = ['assets', 'liquid_tags.notebook', 'pelican_dynamic', 'render_math', 'pelican_gist']
+PLUGINS = [
+    'assets', 
+    'pelican_dynamic', 
+    'render_math', 
+    'pelican_gist'
+]
 
 STATIC_PATHS = ['images', 'notebooks']
 
