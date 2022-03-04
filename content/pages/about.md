@@ -2,7 +2,7 @@ Title: A propos
 
 ## On se présente ...
 
-Je suis un jeune guinéen, vivant à Grenoble apprenant à faire de la recherche scientifique au sein du laboratoire de psychologie et de neurocognition (LPNC). Je travaille sur le couplage de modèles probabiliste et biologique dans le traitement de la perception de la parole naturelle.
+Je suis un jeune, vivant à Grenoble apprenant à faire de la recherche scientifique au sein du laboratoire de psychologie et de neurocognition (LPNC). Je travaille sur le couplage de modèles probabiliste et biologique dans le traitement de la perception de la parole naturelle.
 
 Avant cela, j'ai travaillé chez Bull/Atos sur des thématiques de maintenance prédictive dans les centres de données, où à travers les multitudes de données recoltées, le but était de mettre en place des solutions en utilisant des techniques de science de données et d'apprentissage automatique.
 
