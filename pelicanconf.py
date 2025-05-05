@@ -7,7 +7,7 @@ SITENAME = 'Mamady Nabé'
 SITEURL = 'http://mamadyonline.github.io'
 COPYRIGHT_START_YEAR = '2018-2019'
 TITLE = 'Mamady Nabé'
-DESCRIPTION = "Mamady Nabé est actuellement un doctorant en informatique au sein du laboratoir LPNC."
+DESCRIPTION = "Mamady Nabé est actuellement un postdoctorant à l'université de Genève au sein des laboratoires NDLab & HumanNeuronLab."
 
 LOGO_IMAGE = '/theme/static/images/logo.png'
 
