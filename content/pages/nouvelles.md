@@ -1,10 +1,16 @@
 Title: Mes Nouvelles
 Slug: nouvelles
 
-Modifiées dernièrement : 31 Décembre, 2019
+Modifiées dernièrement : 05 Mai, 2025
+
+## Postdoctorat à l'université de Genève
+En février 2023, j'ai commencé un nouveau poste de Research Engineer/Assistant à l'université de Genève au sein du *Neural Dynamics Lab* et du *Human Neuron Lab* encadré par Dr. Timothée Proix et Prof. Pierre Mégevand. Je travaille sur la compréhension des mécanismes impliqués dans le traitement de la parole dans les conversations naturelles en utilisant les méthodes computationnelles pour analyser des données électrophysiologiques.
+
+## Fini mon doctorat en informatique
+J'ai soutenu publiquement mon doctorat de thèse le 14 mars 2023. Ce fut la consécration de presque 3.5 années pleines d'apprentissage et d'enseignement. J'ai adoré travailler sur mon sujet de thèse au près de mes encadrants Julien Diard et Jean-Luc Schwartz. Ils ont été non seulement une immense source de connaissance mais aussi des exemples de superviseurs dont rêverait toute personne désirant effectuer une thèse. Pendant ces 3.5 années, j'ai eu mes recherches publiées dans des venues renommées du domaine, notamment un article scientifique qui pose le socle de mon travail a été publié dans *Frontiers of Systems Neuroscience*, et 3 papiers de conférence dans des venues telles que *Interspeech* et *CogSci*. Bien évidemment qu'il serait impossible de mettre ici tout ce que m'a apporté ces années, mais cela fut une chouette expérience.
 
 ## Finie mon travail chez Atos
-J'ai démissioné de mon travail en tant que data scientist chez Atos en fin septembre. Et j'ai commencé un doctorat en informatique pour travailler sur de la modélisation bayésienne de la perception de la parole naturelle.
+J'ai démissioné de mon travail en tant que data scientist chez Atos en fin septembre. Et j'ai commencé un doctorat en informatique à l'université Grenoble Alpes au sein du laboratoire de Psychologie et de Neurocognition (LPNC) et du Gipsa-Lab encadré par Dr. Julien Diard et Dr. Jean-Luc Schwartz. Je vais travailler sur de la modélisation bayésienne de la perception de la parole naturelle.
 
 ## Finie l'école d'ingénieur
 Et voilà, c'est la fin de 5 longues années d'études, de la préparation des concours en passant par les classes préparatoires, à la validation de 3 années en école d'ingénieur, le chemin fut plein d'expériences.
