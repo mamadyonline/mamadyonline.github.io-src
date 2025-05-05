@@ -20,7 +20,7 @@ Jinja2>=2.10.1
 Markdown==2.6.8
 MarkupSafe==1.0
 packaging==16.8
-paramiko==2.4.2
+paramiko==2.10.1
 pelican==3.7.1
 pelican-katex==1.0.0
 ply==3.11
